@@ -17,6 +17,7 @@ public class LinkedListTest {
 
 	@Test
 	public void testSize() {
+		fail("Forcing Fail");
 		LinkedList<Integer> tmp=new LinkedList<>();
 		tmp.add(10);
 		tmp.add(5);
