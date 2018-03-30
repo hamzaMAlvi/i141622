@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="st.assignment.LinkedListTest" tests="57" skipped="0" failures="0" errors="0" timestamp="2018-03-30T16:16:54" hostname="DESKTOP-HEEPNP1" time="0.031">
+  <properties/>
+  <testcase name="testAddAllIntCollectionOfQextendsE" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testElement" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testRemoveFirstEx" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testListIteratorPreviousEx" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testContainsObject" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testPeekFirst" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testOfferLast" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testSpliteratorEachRemainingEx" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testGetFirst" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testToArray" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testAddIntE" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testAddLast" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testSpliteratorTryAdvance" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testAddAllCollectionOfQextendsE" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testClear" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testClone" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testListIteratorClass" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testOffer" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testLastIndexOfObject" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testPeek" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testPoll" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testPush" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testSize" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testRemoveFirst" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testOfferFirst" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testDescendingIterator" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testAddFirst" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testGetFirstEx" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testListIteratorInt" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testGetLast" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testLinkBefore" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testSpliteratorCharacter" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testRemoveLastEx" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testRemoveObject" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testSpliteratorTryAdvanceEx" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testRemoveLast" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testPollFirst" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testLinkedList" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testPeekLast" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testSpliteratorEachRemaining" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testRemoveFirstOccurrence" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testRemoveLastOccurrence" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testGetLastEx" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testPollLast" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testIndexOfObject" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testListIteratorNextEx" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testSetIntE" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testSpliteratorTrySplit" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testRemove" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testListIteratorRemove" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testDescendingIteratorClass" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testLinkedListCollectionOfQextendsE" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testToArrayTArray" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testUnlink" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testSpliterator" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testRemoveInt" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <testcase name="testSpliteratorEstimate" classname="st.assignment.LinkedListTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
