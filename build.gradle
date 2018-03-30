@@ -36,3 +36,14 @@ tasks.withType(Test) {
     showStandardStreams true
   }
 }
+
+task fatJar(type: Jar) {
+	manifest {
+        attributes 'Testing-LinkedList': 'Gradle Jar File Example',  
+        	'Implementation-Version': 1.0,
+        	'Main-Class': 'st.assignment.LinkedList'
+    }
+    baseName = project.name + '-all'
+    from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
+    with jar
+}
